@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Front-end Developer from Istanbul/Turkey</h3>
 
 
-- 🌱 I’m currently learnig **Javascript,Vue.js etc.**
+- 🌱 I’m currently learning **Javascript,Vue.js etc.**
 - 💬 Ask me about **Vue.js and Javascript ...**
 - 📫 How to reach me: **sonerbedir1@gmail.com**
 
