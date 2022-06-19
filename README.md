@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soner</h1>
-<h3 align="center"> Junior Front-end Developer from Istanbul/Turkey</h3>
+<h3 align="center">Front-end Developer from Istanbul/Turkey</h3>
 
 
 - 🌱 I’m currently learning **Javascript,Vue.js etc.**
